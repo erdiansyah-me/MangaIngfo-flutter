@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mangaingfo/DetailPage.dart';
-import 'package:mangaingfo/MangaModel.dart';
+import 'package:mangaingfo/detail_page.dart';
+import 'package:mangaingfo/manga_model.dart';
 
 class HomePage extends StatelessWidget {
   final accountName;

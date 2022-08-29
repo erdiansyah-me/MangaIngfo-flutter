@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:mangaingfo/login_page.dart';
 
-import 'SplashPage.dart';
+import 'splash_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: const SplashPage(),
+      home: const LoginPage(),
     );
   }
 }
