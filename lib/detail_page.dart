@@ -232,6 +232,8 @@ class DetailSmallMobile extends StatelessWidget {
                       Text(manga.author, style: informationTextStyle,),
                       Text("Status :", style: secondTitleTextStyle,),
                       Text(manga.status, style: informationTextStyle,),
+                      Text("Latest Chapter :", style: secondTitleTextStyle,),
+                      Text(manga.latestChapter, style: informationTextStyle,),
                       Text("Category :", style: secondTitleTextStyle,),
                       SizedBox(height: 4.0,),
                       Wrap(
