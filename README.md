@@ -1,6 +1,6 @@
 # mangaingfo
 
-A new Flutter project.
+a basic flutter app to display 10 top mangas (ref: MyAnimeList opened on 27/08/2022) along with its details
 
 ## Getting Started
 
